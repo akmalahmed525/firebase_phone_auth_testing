@@ -55,7 +55,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCZpKObks8nC7hKlda6NzgMyk_efmXs2aQ',
-    appId: '1:277905172931:android:b457422dd9e1f44090b576',
+    appId: '1:277905172931:android:5c6df2a1cf437c9990b576',
     messagingSenderId: '277905172931',
     projectId: 'fir-phone-auth-testing',
     storageBucket: 'fir-phone-auth-testing.appspot.com',
@@ -67,6 +67,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '277905172931',
     projectId: 'fir-phone-auth-testing',
     storageBucket: 'fir-phone-auth-testing.appspot.com',
+    androidClientId: '277905172931-1n1m9a33j0endk5nek9f028pvs5e7mae.apps.googleusercontent.com',
     iosClientId: '277905172931-7qma0nta2rsf90ukdvqck360b7e0rdoe.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebasePhoneAuthTesting',
   );
@@ -77,6 +78,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '277905172931',
     projectId: 'fir-phone-auth-testing',
     storageBucket: 'fir-phone-auth-testing.appspot.com',
+    androidClientId: '277905172931-1n1m9a33j0endk5nek9f028pvs5e7mae.apps.googleusercontent.com',
     iosClientId: '277905172931-7618dvfr8b8ql8kgchnhm11nq406242p.apps.googleusercontent.com',
     iosBundleId: 'com.example.firebasePhoneAuthTesting.RunnerTests',
   );

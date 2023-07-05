@@ -7,12 +7,64 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:277905172931:android:5c6df2a1cf437c9990b576",
+        "android_client_info": {
+          "package_name": "com.akmalappdev.firebase_phone_auth_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277905172931-nqfdmjtq2oaqcfksqdih5pr057a75ns5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZpKObks8nC7hKlda6NzgMyk_efmXs2aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277905172931-nqfdmjtq2oaqcfksqdih5pr057a75ns5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277905172931-7618dvfr8b8ql8kgchnhm11nq406242p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasePhoneAuthTesting.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:277905172931:android:b457422dd9e1f44090b576",
         "android_client_info": {
           "package_name": "com.example.firebase_phone_auth_testing"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "277905172931-1n1m9a33j0endk5nek9f028pvs5e7mae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_phone_auth_testing",
+            "certificate_hash": "4b2ba089cfbd8bb3630a5253f7690e9a54f7915f"
+          }
+        },
+        {
+          "client_id": "277905172931-3d33arvgdqf3hi28sgh8pc89qmpi3ta0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_phone_auth_testing",
+            "certificate_hash": "c6c8fc629367e1accfed2f89be81d1838af58199"
+          }
+        },
         {
           "client_id": "277905172931-nqfdmjtq2oaqcfksqdih5pr057a75ns5.apps.googleusercontent.com",
           "client_type": 3
