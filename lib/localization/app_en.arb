@@ -1,0 +1,43 @@
+{
+  "@@locale": "en",
+  "appTitle": "Firebase Login Testing",
+  "@appTitle": {
+    "description": "Title of the application"
+  },
+  "buttonLabelGetStarted": "Get Started",
+  "buttonLabelContinue": "Continue",
+  "buttonLabelResend": "Resend",
+  "termsAndConditionPart1": "By continuing you agree to our",
+  "termsAndConditionPart2": "Terms of Service",
+  "termsAndConditionPart3": "and",
+  "termsAndConditionPart4": "Privacy Policy",
+  "versionLabel": "Version {version} ({buildNumber})",
+  "@versionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String",
+        "example": "1.0.0"
+      },
+      "buildNumber": {
+        "type": "String",
+        "example": "1"
+      }
+    }
+  },
+  "signinInstructionsLabel": "Enter your mobile phone number to sign into your account. If you don’t have one we will create one for you.",
+  "mobileNumberHint": "+61 XXX XXX XXX",
+  "mobileNumberLabel": "Mobile Number",
+  "fieldValidationEmpty": "Please enter the mobile number",
+  "fieldValidationInvalidPhone": "Invalid mobile number",
+  "screenVerifyNumberTitle": "Verify Number",
+  "screenVerifyNumberDescription": "To create your account lets first verify that this is your phone number",
+  "otpCodeResendLabel": "Resend Code",
+  "firebaseErrorUserNotFound": "No user found with this email address.",
+  "firebaseErrorNetworkRequestFailed": "Unable to connect to the network. Please check your internet connection and try again.",
+  "firebaseErrorUserDisabled": "The user account has been disabled.",
+  "firebaseErrorTooManyRequests": "Too many requests. Try again later.",
+  "firebaseErrorOperationNotAllowed": "Signing in with Email and Password is not enabled.",
+  "firebaseErrorUnknown": "An error occurred while logging in. Please try again later.",
+  "firebaseErrorInvalidVerificationCode": "The provided OTP code is invalid.",
+  "firebaseErrorExpiredVerificationCode": "Expired OTP code. To generate a new OTP code, click on the \"Resend\" button."
+}

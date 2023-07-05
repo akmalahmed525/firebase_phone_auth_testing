@@ -1,0 +1,10 @@
+export 'mixins/mixins.dart';
+export 'models/models.dart';
+export 'providers/app_metadata_provider.dart';
+export 'providers/firebase_user_account_provider.dart';
+export 'providers/otp_timer_provider.dart';
+export 'providers/user_data_provider.dart';
+export 'views/screens/error_screen.dart';
+export 'views/screens/privacy_policy_screen.dart';
+export 'views/screens/terms_and_condition_screen.dart';
+export 'views/widgets/widgets.dart';
